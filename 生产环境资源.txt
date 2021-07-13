@@ -1,0 +1,39 @@
+跳板机
+https://10.65.246.249/shterm/login
+Zx_yf_mk
+654321
+
+45服务器
+ZK12
+ctj-2021
+
+
+华为云
+http://10.65.202.243/
+账号1
+YSYTH_YXM
+@zyl1990
+账号2
+YSYTH_ZJC
+Huawei12#$
+测试账号
+ZK_zhangmin
+huawei23#$
+
+生产地址
+http://10.65.242.188/framework-web2/huawei/login.html
+
+yszx.mof
+
+
+hosts文件
+10.65.246.74  yszx.mof
+10.65.207.60    ccsa.jscz.local
+10.64.207.60	jsnbappin
+
+10.65.202.243 auth.jsczcloud.js.mof
+10.65.202.243 docs.jsczcloud.js.mof
+10.65.202.243 servicestage-cn-global-1.jsczcloud.js.mof
+10.65.202.243 dockeryard-cn-global-1.jsczcloud.js.mof
+10.65.202.244 oc.czcloud.js.mof
+10.65.202.245 apig.cn-hz-1.jsczcloud.js.mof
